@@ -1,6 +1,6 @@
 /****** Global Styles ******/
 body {
-	background: #DAF7F6;
+	background: #034513;
 	color: #3B3B3B;
 	font-family: 'Open Sans', sans-serif;
 	font-size: 12px;
@@ -53,18 +53,18 @@ main {
 	box-sizing: border-box;
 }
 
-#cookies .image {
-	background: url("../img/gluten-free-sugar-cookies.jpg");
+#crackin-salad .image {
+	background: url("../img/crackin-salad.png");
 	background-size: cover;
 }
 
-#pesto .image {
-	background: url("../img/nut-free-pesto.jpg");
+#fruit .image {
+	background: url("../img/fruity-fruit.png");
 	background-size: cover;
 }
 
-#salad .image {
-	background: url("../img/watermelon-salad.jpg");
+#savory-potatoes .image {
+	background: url("../img/savory-potatoes.png");
 	background-size: cover;
 }
 
