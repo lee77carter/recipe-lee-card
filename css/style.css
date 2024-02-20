@@ -68,6 +68,11 @@ main {
 	background-size: cover;
 }
 
+#smokeys-dressing .image {
+	background: url("../img/dressing.png");
+	background-size: cover;
+}
+
 .recipe h2 {
 	color: #e20d90;
 	font-size: 24px;
